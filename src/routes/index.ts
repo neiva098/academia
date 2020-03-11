@@ -5,7 +5,7 @@ import userRoutes from './user'
 const apiRoutes = Router()
 
 apiRoutes.get('/', (req: Request, res: Response) => {
-    res.send('Academia Service full cracked 2k88')
+    res.send('Academia 3 full cracked 2k88')
 })
 
 apiRoutes.use('/clientes', userRoutes)
